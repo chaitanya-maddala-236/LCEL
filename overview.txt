@@ -1,0 +1,13 @@
+Langchain and Open ai
+------------------------------------------------
+
+Important components of LangChain 
+Data ingestion with deocuments loaders 
+Recusive Character text Splitter 
+Html Header text Splitter 
+Recursive Json Text Splitter 
+Intro to Open Ai Embeddings
+Ollama Embeddings 
+HuggingFace Embeddings 
+Vector Stores -FAISS 
+Vector Stores and Retriver -Chroma DB 
